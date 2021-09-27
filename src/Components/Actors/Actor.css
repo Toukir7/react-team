@@ -1,0 +1,27 @@
+.card{
+    background-color: #ffffff;
+    text-align: center;
+    color:#444645;
+    box-shadow:4px 4px  10px gray ;
+    
+    border-bottom: 7px solid   #ffffff;
+    border-radius: 20px;
+    margin: 5px;
+}
+.card-image{
+    width:60% ;
+    border: 2px solid silver;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+.card-image img{
+  width: 80%;
+}
+.card button{
+    background-color:  #9264ff;
+    padding: 10px 30px;
+    border: 2px solid #fdfdfd;
+    border-radius: 5px;
+    color:#444645;
+    margin: 10px;
+}

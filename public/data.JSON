@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "K M Mosharraf Hossain ",
+        "age": 50,
+        "cost": 500000,
+        "img": "https://bangladeshus.com/wp-content/uploads/2018/05/Mosharraf-Karim-Biography.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Suchinta Chowdhury Chanchal",
+        "age": 47,
+        "cost": 300000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Chanchal_Chowdhury_%282%29.jpg/1200px-Chanchal_Chowdhury_%282%29.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Mishu Sabbir",
+        "age": "37",
+        "cost": 100000,
+        "img": "https://www.daily-bangladesh.com/media/imgAll/2021March/en/Mishu-Sabbir-2107051200.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Zahid Hasan ",
+        "age": 55,
+        "cost": 800000,
+        "img": "https://www.daily-bangladesh.com/media/imgAll/2020June/en/Zahid-Hasan-2010040802.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Afran Nisho ",
+        "age": 40,
+        "cost": 300000,
+        "img": "https://m.media-amazon.com/images/I/61W3QP+eHpL._SS500_.jpg?fbclid=IwAR3aF4NaEap08b16QViUypX0e1x9zAUXXJ4HBZdUPWVPIM9ZD4SNbcjG0zA"
+    },
+    {
+        "id": "6",
+        "name": "Mahfuz Ahmed",
+        "age": 53,
+        "cost": 700000,
+        "img": "http://www.mediabangladesh.net/bcard/wp-content/uploads/2008/06/actor-mahfuz-ahmed.jpg?fbclid=IwAR0O-JJRCWu10ewZTYg7eTpwCA5XpmZZwfN9r7UG5O7C5MjvHJkBCf4ffqE"
+    }
+]
